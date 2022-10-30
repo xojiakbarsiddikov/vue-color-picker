@@ -249,7 +249,7 @@ select, option {
 .range_1 {
   display: flex;
   align-items: center;
-  font-size: 12px;
+  font-size: 16px;
   margin: 0 0 20px;
 }
 
