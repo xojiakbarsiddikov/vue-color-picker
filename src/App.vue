@@ -35,8 +35,8 @@
         <input type="range" class="range background" min="20" max="200" v-model="color.saturation" id="weight">
         <i class="fa-sharp fa-solid fa-fire-flame-curved"></i>
       </div>
-      <!--        <h1 v-text="msg"></h1>-->
-      <!--        <pre v-text="JSON.stringify(color, null, 4)"></pre>-->
+              <h1 v-text="msg"></h1>
+             <pre v-text="JSON.stringify(color, null, 4)"></pre>
     </div>
 
     <div class="popupp"></div>
